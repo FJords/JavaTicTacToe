@@ -7,7 +7,8 @@ The code is structured to ensure smooth gameplay with real-time feedback, making
 Key features such as automatic win detection, tie recognition, and intuitive visual cues enhance the overall user experience. Additionally, the application is designed with accessibility and usability in mind, employing high-contrast colors and large fonts to cater to a wide range of users.
 
 
-![image](https://github.com/user-attachments/assets/0ec21149-9cc8-4aaa-88a6-511787268e49)
+![image](https://github.com/user-attachments/assets/fc4ae72b-81a1-4eb6-83b6-647761324180)
+
 
 Setup Instructions
 
