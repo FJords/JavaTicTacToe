@@ -23,11 +23,10 @@ Open the terminal or command prompt.
 Navigate to the directory where the source code file (JavaTicTacToeDLR.java) is located.
 
 **Compile the code using the following command** -
-Copy code javac TicTacToe.java
+Copy code JavaTicTacToeDLR.java
 
 **Running the Game** -
-After successfully compiling the code, run the game using the command:
-Copy code java TicTacToe
+After successfully compiling the code, run the game using the command, Copy code JavaTicTacToeDLR
 The Tic Tac Toe game window will appear, and you can start playing immediately.
 
 **Playing the Game** -
